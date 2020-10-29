@@ -1,0 +1,92 @@
+* {
+    margin: 0;
+    padding: 0;
+}	
+header {
+    width: 100%;
+    height: 8vh;
+    background: -webkit-linear-gradient(to right, #97878f, #fccefc);  
+    background: linear-gradient(to right,   #97878f, #fccefc);
+	vertical-align: middle;
+	text-align:center;
+	
+}	
+h1, .contenedor ul li{
+	font-size:2.5vw;
+}
+ul{
+	list-style-type: none;;
+}
+a{	
+	color: #7D117A;
+	/*text-decoration:none;*/
+}
+.contenedor {
+	font-size:1vw;
+	padding-top:20px;
+	padding-left:30px;
+}
+.tirar{
+	font-size:10px;
+	margin-left:100px;
+}
+.datos {
+	font-size:1vw;
+	margin-left:100px;
+}
+form select{
+	font-size:20px;
+}
+.contenedor table tbody td{
+	padding-left:100px;
+}
+main{
+    background: -webkit-linear-gradient(to right, #e4d8e1, #fce6f2);  
+    background: linear-gradient(to right,#e4d8e1, #fce6f2);
+    min-height:80vh; 
+}
+main .boton{
+	margin-left:20px;
+    background-color:  rgb(141, 26, 89);
+    color:rgb(209, 241, 243);
+    padding:6px;
+    width:20em;
+}
+.contenedor h2{
+	text-align:center;
+}
+.contenedor .imagen3{
+	display:block;
+	margin-left: auto;
+ 	margin-right: auto;
+}
+
+form input{
+    margin-bottom:1em;
+    padding:6px;
+}
+/*footer{
+    width: auto;
+    height: 8vh;
+    background: rgba(0, 0, 0, 0) linear-gradient(to bottom, rgb(97, 88, 97) 0%, rgb(114, 102, 114) 100%) repeat scroll 0 0;
+    box-shadow: 0 0 5px 0 rgba(39, 39, 39, 0.5);
+    color: rgb(190, 231, 241);
+    font-weight: bold;
+    padding: 1%;
+	text-align:center;
+}
+footer a{
+    color:#e8dfe8;
+ }
+ 
+@media screen and (max-width: 775px) {
+ 	h1{
+       font-size:5vw;
+    }
+}
+
+@media screen and (max-width: 500px) {
+   	h1{
+       font-size:7vw;
+    }
+}*/
