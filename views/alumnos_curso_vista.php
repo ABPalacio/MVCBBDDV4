@@ -16,7 +16,7 @@
             <thead>
                 <tr>
                     <th>Nombre</th>
-                    <th>Apellido 1</th>
+                    <th>Primer Apellido</th>
                     <th>Apellido 2</th>
                    	<th>Nota</th>
 					
